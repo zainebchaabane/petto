@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------------
     File Name: style.css
     Template Name: Petto
-    Created By: HTML.Design
+    Cmain_bteated By: HTML.Design
 -------------------------------------------------------------------*/
 
 
@@ -2546,15 +2546,16 @@ ol.workinghours li span,
 }
 
 .slider1 {
-    background: url("images/slider1.png");
+    background: url("images/slider1.jpg");
+
 }
 
 .slider2 {
-    background: url("images/slider2.png");
+    background: url("images/slider2.jpg");
 }
 
 .slider3 {
-    background: url("images/slider3.png");
+    background: url("images/slider3.jpg");
 }
 
 .slider_coint_inner {
@@ -4165,6 +4166,12 @@ form#commant_form div.field textarea.custom_field {
     color: #111428;
 }
 
+/* added */ 
+.slider_section  .btn-box a {
+  width: 185px;
+  text-align: center;
+  margin: 5px;
+}
 .custom-navbar-width {
     max-width: 1400px; /* Set your desired width */
     width: 100%;
